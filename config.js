@@ -8,7 +8,7 @@ global.owner = [
   ['595983186566', '👑Sapito - Creador 👑', true],
   ['595983186566', '👑 Sapitc - Collaborator 1 👑', true],
   ['5049', '👑 Mystic - Collaborator 2 👑', true],
-  [864609', '👑 Mystic - Collaborator 3 👑', true],
+  ['595983186566', '👑 Mystic - Collaborator 3 👑', true],
   ['519', '👑 Mystic - Collaborator 4 👑', true],
   ['5219992095479'],
   ['5219991402134'],
