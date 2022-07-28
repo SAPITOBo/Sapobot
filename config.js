@@ -72,7 +72,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.author = '★Sapito - 𝙱𝚘𝚝★'
 
 global.wm = '★Sapito- 𝙱𝚘𝚝★'
 global.igfg = '★Sapito - 𝙱𝚘𝚝★'
